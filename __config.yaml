@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+title: "Md Iqbal Bajmi - AI/ML Data Scientist"
+description: "Portfolio and blog of Md Iqbal Bajmi."
+baseurl: ""  # leave empty for user/organization pages
+url: "https://iqbalbazmi.github.io/portfolio/"
+theme: jekyll-theme-cayman
